@@ -1,0 +1,10 @@
+#Sun Feb 26 17:21:14 PST 2012
+eclipse.preferences.version=1
+provisioning_profiles/development/2391E305-DAB7-4B59-88D8-8D735B9B54AE/appid=com.dealwyze.*
+provisioning_profiles/development/2391E305-DAB7-4B59-88D8-8D735B9B54AE/filepath=/Users/bendehghan/Library/MobileDevice/Provisioning Profiles/2391E305-DAB7-4B59-88D8-8D735B9B54AE.mobileprovision
+provisioning_profiles/development/2391E305-DAB7-4B59-88D8-8D735B9B54AE/name=Dealwyze generic
+provisioning_profiles/development/2391E305-DAB7-4B59-88D8-8D735B9B54AE/uuid=2391E305-DAB7-4B59-88D8-8D735B9B54AE
+provisioning_profiles/distribution/C3F6E292-1DDE-4580-8BB9-4FA3260A533A/appid=com.dealwyze.*
+provisioning_profiles/distribution/C3F6E292-1DDE-4580-8BB9-4FA3260A533A/filepath=/Users/bendehghan/Library/MobileDevice/Provisioning Profiles/C3F6E292-1DDE-4580-8BB9-4FA3260A533A.mobileprovision
+provisioning_profiles/distribution/C3F6E292-1DDE-4580-8BB9-4FA3260A533A/name=Dealwyze generic Distribution
+provisioning_profiles/distribution/C3F6E292-1DDE-4580-8BB9-4FA3260A533A/uuid=C3F6E292-1DDE-4580-8BB9-4FA3260A533A
